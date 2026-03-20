@@ -1,0 +1,2 @@
+# qi-qsharpe
+Backtesting framework
