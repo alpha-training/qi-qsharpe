@@ -1,0 +1,5 @@
+legs=GDX,GLD
+lookback=100
+entry_z=2.0
+exit_z=0.5
+warmup=150

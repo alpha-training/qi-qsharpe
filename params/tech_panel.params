@@ -1,0 +1,5 @@
+universe=`XLK_COMPONENTS
+max_positions=10
+rsi_n=14
+top_n=10
+warmup=60
